@@ -7,11 +7,6 @@ This Python script allows you to download videos from YouTube by selecting the d
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Example](#example)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
